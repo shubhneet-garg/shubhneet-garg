@@ -9,7 +9,6 @@ I'm Shubhneet Garg, a software developer specializing in c language.
 
 ## My Projects
 - 🚀 [Space Explorer]: A web app that visualizes NASA's space missions in real-time.
-- 🍕 [Pizza Tracker]: A fun app that tracks pizza deliveries using geolocation.
 - 🤖 [AI Chatbot]: A conversational AI built with Python and TensorFlow.
 <!---
 Shubhneet1535/Shubhneet1535 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
