@@ -65,7 +65,7 @@ Status    : Open to Internships & Collaborations ✅
     <td width="50%">
       <h3>🏠 PrimeEstate</h3>
       <p>Real estate platform for Chandigarh Tricity region with Indian pricing, RERA details, property search & JWT authentication.</p>
-      <p><b>Tech:</b> React · Node.js · Express · MongoDB · JWT</p>
+      <p><b>Tech:</b> React · Vite · CSS Custom Properties · localStorage</p>
       <a href="https://github.com/shubhneet-garg/primeestate"><b>View Repo →</b></a>
     </td>
     <td width="50%">
