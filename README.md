@@ -1,4 +1,4 @@
-x<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=220&section=header&text=Shubhneet%20Garg&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Shubhneet Garg"/>
 
