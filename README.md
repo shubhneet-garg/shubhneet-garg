@@ -1,4 +1,4 @@
-<div align="center">
+x<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=220&section=header&text=Shubhneet%20Garg&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Shubhneet Garg"/>
 
@@ -71,34 +71,59 @@ I enjoy working across backend systems and full-stack applications, exploring AI
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
+      <h3>🛒 Trendora</h3>
+      <p>
+        Full-stack e-commerce platform featuring customer shopping,
+        seller management, product listings, order workflows,
+        and an admin dashboard.
+      </p>
+      <p><b>Tech:</b> React · Node.js · Express.js · MongoDB</p>
+      <a href="https://github.com/shubhneet-garg/trendora">
+        <img src="https://img.shields.io/badge/View%20Repository-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🌾 Manavta Agro Foods</h3>
+      <p>
+        Business website for a parboiled rice mill, featuring
+        product discovery, quotation requests, sample requests,
+        enquiry management, and backend integration.
+      </p>
+      <p><b>Tech:</b> React · Node.js · Express.js · MongoDB</p>
+      <a href="https://github.com/shubhneet-garg/manavta-agro-foods">
+        <img src="https://img.shields.io/badge/View%20Repository-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
       <h3>🏠 PrimeEstate</h3>
-      <p>Real estate platform for Chandigarh Tricity region with Indian pricing, RERA details, property search & JWT authentication.</p>
+      <p>
+        Real estate platform for Chandigarh Tricity region with
+        Indian pricing, RERA details, property search,
+        and JWT authentication.
+      </p>
       <p><b>Tech:</b> React · Vite · CSS Custom Properties · localStorage</p>
-      <a href="https://github.com/shubhneet-garg/primeestate"><b>View Repo →</b></a>
+      <a href="https://github.com/shubhneet-garg/primeestate">
+        <img src="https://img.shields.io/badge/View%20Repository-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
     <td width="50%">
       <h3>📚 SavvyNest</h3>
-      <p>Full-stack learning platform with student & instructor dashboards, course management and secure auth flow.</p>
+      <p>
+        Full-stack learning platform with student and instructor
+        dashboards, course management, and secure authentication.
+      </p>
       <p><b>Tech:</b> React · Node.js · Express · MongoDB</p>
-      <a href="https://github.com/shubhneet-garg/savvynest"><b>View Repo →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌍 Galli2Globe</h3>
-      <p>Travel discovery platform to explore destinations from local streets to global landmarks.</p>
-      <p><b>Tech:</b> React · Node.js · Express · MongoDB</p>
-      <a href="https://github.com/shubhneet-garg/galli2globe"><b>View Repo →</b></a>
-    </td>
-    <td width="50%">
-      <h3>🧠 LifeOS <i>(In Progress)</i></h3>
-      <p>AI personal life operating system that learns your behavior patterns over time and predicts problems before they happen.</p>
-      <p><b>Tech:</b> React · Node.js · MongoDB · Gemini AI</p>
+      <a href="https://github.com/shubhneet-garg/savvynest">
+        <img src="https://img.shields.io/badge/View%20Repository-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -126,16 +151,6 @@ I enjoy working across backend systems and full-stack applications, exploring AI
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=shubhneet-garg&background=0f172a&border=164e63&ring=0891b2&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhneet-garg&bg_color=0f172a&color=cbd5e1&line=0891b2&point=22d3ee&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
