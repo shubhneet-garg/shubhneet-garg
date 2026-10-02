@@ -1,12 +1,23 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=220&section=header&text=Shubhneet%20Garg&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Shubhneet Garg"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Software+Engineering;Backend+%26+Full-Stack+Developer;Java+%7C+DSA+%7C+Problem+Solving;Building+Scalable+Web+Applications;Exploring+AI+%26+FinTech;B.Tech+CSE+%40+Chitkara+University" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Backend+%26+Full-Stack+Developer;Java+%7C+Node.js+%7C+React;Data+Structures+%26+Algorithms;Building+Scalable+Web+Applications;Exploring+AI+Engineering+%26+FinTech;B.Tech+CSE+%40+Chitkara+University" alt="Typing SVG"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shubhneet-garg&color=0891b2&style=flat-square&label=Profile+Views)
+<a href="https://github.com/shubhneet-garg">
+<img src="https://komarev.com/ghpvc/?username=shubhneet-garg&color=0891b2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/shubhneet-garg?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-164e63?style=flat-square&logo=github" alt="Repositories"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shubhneet-garg/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+</a>
 
 </div>
 
@@ -14,129 +25,212 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-Name       : Shubhneet Garg
-Education  : B.Tech Computer Science Engineering
-University : Chitkara University, Punjab
-Role       : Software Engineering
-Focus      : Backend Engineering & Full-Stack Development
-Core       : Java, Data Structures & Algorithms, OOP
-Stack      : MERN (MongoDB, Express.js, React, Node.js)
-Languages  : Java, C++, C, JavaScript, SQL
-Interests  : AI Engineering, FinTech, System Design, Open Source
-Email      : shubhneet.garg1@gmail.com
-Goal       : Build scalable software and grow as a Software Engineer
-Status     : Open to Internships & Collaborations
-```
+<table>
+<tr>
+<td><b>Name</b></td>
+<td>Shubhneet Garg</td>
+</tr>
+<tr>
+<td><b>Education</b></td>
+<td>B.E. Computer Science Engineering</td>
+</tr>
+<tr>
+<td><b>University</b></td>
+<td>Chitkara University, Punjab</td>
+</tr>
+<tr>
+<td><b>Role</b></td>
+<td>Aspiring Software Engineer</td>
+</tr>
+<tr>
+<td><b>Focus</b></td>
+<td>Backend Engineering · Full-Stack Development · AI Engineering</td>
+</tr>
+<tr>
+<td><b>Core Skills</b></td>
+<td>Java · DSA · OOP · Problem Solving</td>
+</tr>
+<tr>
+<td><b>Technology</b></td>
+<td>React · Node.js · Express.js · MongoDB · PostgreSQL · JavaScript</td>
+</tr>
+<tr>
+<td><b>Interests</b></td>
+<td>System Design · FinTech · Artificial Intelligence · Open Source</td>
+</tr>
+<tr>
+<td><b>Status</b></td>
+<td>Open to Software Engineering Internships & Collaborations</td>
+</tr>
+</table>
 
-I am a Computer Science student focused on building practical software, strengthening problem-solving skills, and understanding how scalable applications work.
+I am a Computer Science Engineering student focused on backend engineering, full-stack development, and building practical software applications.
 
-I enjoy working across backend systems and full-stack applications, exploring AI integration, and turning ideas into functional products.
+I enjoy designing REST APIs, working with databases, solving algorithmic problems, and exploring how scalable systems are developed.
+
+Currently strengthening my foundations in Java, Data Structures & Algorithms, DBMS, and System Design while building projects using the MERN stack.
+
+**Current goal:** Develop strong software engineering fundamentals and build reliable, maintainable applications.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend Development
-
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-### Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=43853D)
-![Express.js](https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![JWT](https://img.shields.io/badge/JWT-0f172a?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<p>
+<img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
+<img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL"/>
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=43853D" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express.js"/>
+<img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/JWT-0f172a?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff" alt="JWT"/>
+</p>
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+<p>
+<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+<img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
+<img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🛒 Trendora</h3>
-      <p>
-        Full-stack e-commerce platform featuring customer shopping,
-        seller management, product listings, order workflows,
-        and an admin dashboard.
-      </p>
-      <p><b>Tech:</b> React · Node.js · Express.js · MongoDB</p>
-      <a href="https://github.com/shubhneet-garg/trendora">
-        <img src="https://img.shields.io/badge/View%20Repository-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🌾 Manavta Agro Foods</h3>
-      <p>
-        Business website for a parboiled rice mill, featuring
-        product discovery, quotation requests, sample requests,
-        enquiry management, and backend integration.
-      </p>
-      <p><b>Tech:</b> React · Node.js · Express.js · MongoDB</p>
-      <a href="https://github.com/shubhneet-garg/manavta-agro-foods">
-        <img src="https://img.shields.io/badge/View%20Repository-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td width="50%">
-      <h3>🏠 PrimeEstate</h3>
-      <p>
-        Real estate platform for Chandigarh Tricity region with
-        Indian pricing, RERA details, property search,
-        and JWT authentication.
-      </p>
-      <p><b>Tech:</b> React · Vite · CSS Custom Properties · localStorage</p>
-      <a href="https://github.com/shubhneet-garg/primeestate">
-        <img src="https://img.shields.io/badge/View%20Repository-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>📚 SavvyNest</h3>
-      <p>
-        Full-stack learning platform with student and instructor
-        dashboards, course management, and secure authentication.
-      </p>
-      <p><b>Tech:</b> React · Node.js · Express · MongoDB</p>
-      <a href="https://github.com/shubhneet-garg/savvynest">
-        <img src="https://img.shields.io/badge/View%20Repository-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+### 🛒 Trendora
+
+A full-stack e-commerce platform designed around customer shopping, seller workflows, product management, and order processing.
+
+**Key Features**
+- Product discovery and shopping
+- Seller management
+- Order workflows
+- Admin dashboard
+
+**Tech Stack**
+
+React · Node.js · Express.js · MongoDB
+
+<a href="https://github.com/shubhneet-garg/Trendora">
+<img src="https://img.shields.io/badge/View%20Repository-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Trendora Repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 Manavta Agro Foods
+
+Full-stack business website for a parboiled rice mill, built to present products and manage business enquiries.
+
+**Key Features**
+- Product discovery
+- Quotation requests
+- Sample requests
+- Enquiry management
+- Backend integration
+
+**Tech Stack**
+
+React · Node.js · Express.js · MongoDB
+
+<a href="https://github.com/shubhneet-garg/manavta-agro-foods">
+<img src="https://img.shields.io/badge/Repository-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Manavta Repository"/>
+</a>
+
+<a href="https://manavta-agro-foods.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Website-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Manavta Live Website"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 PrimeEstate
+
+Real estate discovery platform focused on Chandigarh Tricity, with Indian pricing conventions and property information.
+
+**Key Features**
+- Property search
+- Property listings
+- Indian pricing
+- RERA information
+- Responsive interface
+- LocalStorage persistence
+
+**Tech Stack**
+
+React · Vite · JavaScript · CSS
+
+<a href="https://github.com/shubhneet-garg/PrimeEstate">
+<img src="https://img.shields.io/badge/Repository-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="PrimeEstate Repository"/>
+</a>
+
+<a href="https://prime-estate-tri.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="PrimeEstate Live Demo"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 SavvyNest
+
+Full-stack learning platform designed to support students and instructors through course management and dedicated dashboards.
+
+**Key Features**
+- Student dashboard
+- Instructor dashboard
+- Course management
+- Authentication
+
+**Tech Stack**
+
+React · Node.js · Express.js · MongoDB
+
+<a href="https://github.com/shubhneet-garg/savvynest">
+<img src="https://img.shields.io/badge/View%20Repository-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="SavvyNest Repository"/>
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🚧 Currently Building
+## 🚧 Currently Building & Exploring
 
-| # | Project | Description | Status |
-|---|---------|-------------|--------|
-| 1 | 🧠 LifeOS | AI that learns your life patterns & predicts problems before they happen | 🔨 In Progress |
-| 2 | 🛡️ FakeShield | AI fake news & misinformation detector with confidence scoring | 💡 Planning |
-| 3 | 📈 Stock Sentiment Analyzer | Real-time NSE/BSE news sentiment with BUY/SELL signals | 🔜 Coming Soon |
+| Project | Description | Status |
+|---|---|---|
+| 🧠 LifeOS | Personal productivity platform exploring AI-assisted pattern analysis, intelligent reminders, and predictive insights. | 🔨 In Progress |
+| 🛡️ FakeShield | AI-assisted misinformation analysis using claim classification, source evaluation, and confidence indicators. | 💡 Planning |
+| 📈 Stock Sentiment Analyzer | NLP-based financial news sentiment analysis for NSE/BSE-listed companies. | 🔜 Planned |
 
 ---
 
@@ -144,28 +238,28 @@ I enjoy working across backend systems and full-stack applications, exploring AI
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhneet-garg&show_icons=true&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=cbd5e1&icon_color=22d3ee"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhneet-garg&show_icons=true&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=cbd5e1&icon_color=22d3ee" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhneet-garg&layout=compact&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=cbd5e1&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhneet-garg&layout=compact&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=cbd5e1&langs_count=8" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shubhneet-garg&background=0f172a&border=164e63&ring=0891b2&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=shubhneet-garg&background=0f172a&border=164e63&ring=0891b2&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Activity
 
 <div align="center">
 
 <a href="https://github.com/shubhneet-garg?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
 </a>
 
 <a href="https://github.com/shubhneet-garg?tab=stars">
-  <img src="https://img.shields.io/badge/View-Starred%20Projects-164e63?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View-Starred%20Projects-164e63?style=for-the-badge&logo=github&logoColor=white" alt="Starred Projects"/>
 </a>
 
 </div>
@@ -176,17 +270,20 @@ I enjoy working across backend systems and full-stack applications, exploring AI
 
 <div align="center">
 
-<a href="mailto:shubhneetgarg445@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:shubhneet.garg1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/shubhneet-garg">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-164e63?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/shubhneet-garg/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://github.com/shubhneet-garg">
-  <img src="https://img.shields.io/badge/GitHub-Follow-0891b2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://leetcode.com/u/shubhnet-garg/">
-  <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 </div>
@@ -201,7 +298,7 @@ I enjoy working across backend systems and full-stack applications, exploring AI
 
 <br/>
 
-⭐ If you find my work useful, consider starring my repositories!
+⭐ If you find my work useful, consider starring my repositories.
 
 </div>
 
