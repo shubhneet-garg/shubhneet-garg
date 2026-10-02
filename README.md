@@ -24,7 +24,7 @@ Core       : Java, Data Structures & Algorithms, OOP
 Stack      : MERN (MongoDB, Express.js, React, Node.js)
 Languages  : Java, C++, C, JavaScript, SQL
 Interests  : AI Engineering, FinTech, System Design, Open Source
-Email      : shubhneetgarg445@gmail.com
+Email      : shubhneet.garg1@gmail.com
 Goal       : Build scalable software and grow as a Software Engineer
 Status     : Open to Internships & Collaborations
 ```
